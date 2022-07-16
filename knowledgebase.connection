@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_ProyectoPrograNegocios</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Models\ProyectoPrograNegocios</Directory>
+	<DataFile>GX_KB_ProyectoPrograNegocios.mdf</DataFile>
+	<LogFile>GX_KB_ProyectoPrograNegocios_log.ldf</LogFile>
+	<HostName>DESKTOP-KNUU1GJ</HostName>
+</ConnectionInformation>
